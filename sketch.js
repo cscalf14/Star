@@ -60,7 +60,7 @@ function setup() {
 
   // Create an area that is not the full screen
 
-  createCanvas(600, 620);
+  createCanvas(windowWidth, windowHeight);
 
 
 
